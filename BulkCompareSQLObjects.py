@@ -87,7 +87,6 @@ def compare_sps_in_folders(folder1, folder2, output_excel_file, developer_name):
 
     create_excel_report(result_data, output_excel_file)
 
-
 folder1 = r'A:\Python\t1'
 folder2 = r'A:\Python\t2'
 output_excel_file = r'A:\testing'

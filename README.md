@@ -4,7 +4,7 @@ A Python tool to compare SQL stored procedures across two folders and generate a
 
 ## Features
 
-- **Folder Comparison**:
+- **Folder Comparison**: 
   - Compares stored procedures (`.sql` files) in two directories.
   - Identifies whether a stored procedure exists in one folder, both folders, or is missing.
 - **Normalization**:
